@@ -115,6 +115,9 @@
     <Reference Include="UnityEditor.iOS.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.WebGL.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.WebGL.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.LinuxStandalone.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
     </Reference>
@@ -135,12 +138,6 @@
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
