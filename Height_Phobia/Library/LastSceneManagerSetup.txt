@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Conor_City_Test.unity
+- path: Assets/Scenes/Joe_City_Test.unity
   isLoaded: 1
   isActive: 1
