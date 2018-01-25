@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Wrld/Scenes/UnityWorldSpace.unity
-  isLoaded: 1
-  isActive: 1
