@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Joe_City_Test.unity
+=======
+- path: Assets/Scenes/Vinnie_City_Scene.unity
+>>>>>>> 6163e98737ff88a81506dd663d1331a3a3a7156e
   isLoaded: 1
   isActive: 1
