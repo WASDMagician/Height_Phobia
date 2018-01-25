@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Vinnie_City_Scene.unity
-=======
-- path: Assets/Scenes/Darius_City_Test 1.unity
->>>>>>> master
   isLoaded: 1
   isActive: 1
