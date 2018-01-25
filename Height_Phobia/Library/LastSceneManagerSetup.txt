@@ -1,12 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Conor_City_Test.unity
-=======
-<<<<<<< HEAD
-- path: Assets/Scenes/Joe_City_Test.unity
-=======
-- path: Assets/Scenes/Vinnie_City_Scene.unity
->>>>>>> 6163e98737ff88a81506dd663d1331a3a3a7156e
->>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
   isLoaded: 1
   isActive: 1
