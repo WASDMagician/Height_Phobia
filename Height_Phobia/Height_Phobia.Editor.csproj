@@ -163,7 +163,6 @@
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\SunShaftsEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\TonemappingEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs" />
-    <Compile Include="Assets\Resonai\Editor\ResonaiMeshDetailsInspectorProxy.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
@@ -264,10 +263,6 @@
     <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\Prototyping\UnityChan\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\Prototyping\UnityChan\license.txt" />
-    <None Include="Assets\Resonai\InternalResources\PreviewGizmo.shader" />
-    <None Include="Assets\Resonai\InternalResources\PreviewObject.shader" />
-    <None Include="Assets\Resonai\InternalResources\Transparent.shader" />
-    <None Include="Assets\Resonai\README.txt" />
     <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\Scripts\Joe\!placeholder.txt" />
     <None Include="Assets\Scripts\Michael\!placeholder.txt" />
