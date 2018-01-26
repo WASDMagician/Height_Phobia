@@ -351,6 +351,7 @@
     <None Include="Assets\Resonai\InternalResources\PreviewObject.shader" />
     <None Include="Assets\Resonai\InternalResources\Transparent.shader" />
     <None Include="Assets\Resonai\README.txt" />
+    <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\Scripts\Joe\!placeholder.txt" />
     <None Include="Assets\Scripts\Michael\!placeholder.txt" />
     <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />

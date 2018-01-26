@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\Auto_Save_On_Run.cs" />
+     <Compile Include="Assets\Editor\Move_To.cs" />
      <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\AntialiasingEditor.cs" />
      <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\BloomAndFlaresEditor.cs" />
      <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\BloomEditor.cs" />
@@ -76,6 +77,7 @@
      <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
      <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
      <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
@@ -260,9 +262,6 @@
  </Reference>
  <Reference Include="UnityEditor.Facebook.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
- <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
  </Reference>
  <Reference Include="ResonaiEditorEnvironment">
  <HintPath>E:/Height_Phobia/Height_Phobia/Height_Phobia/Assets/Resonai/ResonaiEditorEnvironment.dll</HintPath>
