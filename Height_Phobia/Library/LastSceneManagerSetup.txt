@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Darius_City_Test 1.unity
-=======
-- path: Assets/Scenes/Conor_City_Test.unity
->>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
   isLoaded: 1
   isActive: 1

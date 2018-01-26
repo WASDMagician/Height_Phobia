@@ -82,6 +82,12 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="ResonaiEditorEnvironment">
+      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PROTO_Grey_Randomiser.cs" />
@@ -132,6 +138,8 @@
     <Compile Include="Assets\Prototyping\UnityChan\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\Prototyping\UnityChan\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\Prototyping\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
+    <Compile Include="Assets\Resonai\Scripts\HideGameObject.cs" />
+    <Compile Include="Assets\Resonai\Scripts\ResonaiMeshDetails.cs" />
     <Compile Include="Assets\Scripts\Joe\Elevator.cs" />
     <Compile Include="Assets\Scripts\Michael\WaypointTravel.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
@@ -248,6 +256,7 @@
   <ItemGroup>
     <None Include="Assets\Art\!placeholder.txt" />
     <None Include="Assets\Editor\!placeholder.txt" />
+    <None Include="Assets\Low Poly Buildings Lite\ReadMe.txt" />
     <None Include="Assets\Prototyping\Heli1\Info.txt" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
@@ -338,6 +347,10 @@
     <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\Prototyping\UnityChan\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\Prototyping\UnityChan\license.txt" />
+    <None Include="Assets\Resonai\InternalResources\PreviewGizmo.shader" />
+    <None Include="Assets\Resonai\InternalResources\PreviewObject.shader" />
+    <None Include="Assets\Resonai\InternalResources\Transparent.shader" />
+    <None Include="Assets\Resonai\README.txt" />
     <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\Scripts\Joe\!placeholder.txt" />
     <None Include="Assets\Scripts\Michael\!placeholder.txt" />

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -513984345, guid: cf6d42fa8095fe04592b3d062cda4765, type: 3}
+  m_Name: ResonaiAssetsReference
+  m_EditorClassIdentifier: 
+  windowIcon: {fileID: 2800000, guid: 2e9ce785bb4289a4a8d67d5cc589751c, type: 3}
+  textureStarOff: {fileID: 2800000, guid: b58868a187f1c9e4582f135f76519c5e, type: 3}
+  textureStarOn: {fileID: 2800000, guid: 01460fee0e71bd64d9e288d929898bfb, type: 3}
+  textureFeedback: {fileID: 2800000, guid: 113a78d6254d64948975ef618e0511bb, type: 3}
+  textureSettings: {fileID: 2800000, guid: 15a579b1be220e64192ab4e08175bba3, type: 3}
+  textureSettingsRed: {fileID: 2800000, guid: 5810b331eee2ae941a9c690171ede1d0, type: 3}
+  textureAbout: {fileID: 2800000, guid: 81bc17fa497e57640afe26d348c6fef7, type: 3}
+  textureNavigationNext: {fileID: 2800000, guid: 84471f83507fc6b48bf9344b73738b6a,
+    type: 3}
+  textureNavigationPrevious: {fileID: 2800000, guid: 6ac43d22f3a38514789bf90242655241,
+    type: 3}
+  textureBorderBlue: {fileID: 2800000, guid: 7c6a3ee56df53974f8a59f4581617ade, type: 3}
+  textureResonaiLogo: {fileID: 2800000, guid: 916a69ba5e86c48b1abc079c3bb212a2, type: 3}
+  emptySkin: {fileID: 11400000, guid: d2866d29ee0f05e4db09f8c1a4bee964, type: 2}
+  previewPrefab: {fileID: 1383854105461254, guid: 8553e05880f6c274a959dcc41dae47c0,
+    type: 2}
+  loadingPrefab: {fileID: 1364652113390544, guid: 4f594fc56c70ef94e8b2c5451810ce9f,
+    type: 2}
+  spinnerTexture: {fileID: 2800000, guid: 7569df5c6d5407c48885f42983f1452e, type: 3}
+  textureLogout: {fileID: 2800000, guid: b3d04da1c40faf44baab33238e80dd51, type: 3}
+  textureHowToOpenSearch: {fileID: 2800000, guid: df8398fdff6b4f442bd110015864daf6,
+    type: 3}
+  textureLoginUnityEditor: {fileID: 2800000, guid: 81bc0a8400e2ff64c87cd8a811454989,
+    type: 3}
+  textureTransparentRect: {fileID: 2800000, guid: f0d2b6804b9c67f4e8b57382c265baef,
+    type: 3}
