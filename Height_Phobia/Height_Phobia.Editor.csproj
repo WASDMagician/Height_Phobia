@@ -139,6 +139,12 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="ResonaiEditorEnvironment">
+      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
+    </Reference>
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>
@@ -176,6 +182,7 @@
   <ItemGroup>
     <None Include="Assets\Art\!placeholder.txt" />
     <None Include="Assets\Editor\!placeholder.txt" />
+    <None Include="Assets\Low Poly Buildings Lite\ReadMe.txt" />
     <None Include="Assets\Prototyping\Heli1\Info.txt" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
