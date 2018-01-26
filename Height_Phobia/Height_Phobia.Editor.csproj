@@ -174,7 +174,6 @@
   <ItemGroup>
     <None Include="Assets\Art\!placeholder.txt" />
     <None Include="Assets\Editor\!placeholder.txt" />
-    <None Include="Assets\Low Poly Buildings Lite\ReadMe.txt" />
     <None Include="Assets\Prototyping\Heli1\Info.txt" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
