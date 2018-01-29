@@ -141,12 +141,16 @@
     </Reference>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7c9f4204... Trees & Roads
     <Reference Include="ResonaiEditorEnvironment">
       <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
       <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
 =======
     <Reference Include="Google.Protobuf">
       <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
@@ -157,6 +161,8 @@
 >>>>>>> parent of 04a98c48... ROADSANSHit
 =======
 >>>>>>> parent of 6cffeec1... k;jhnjuiohnui
+=======
+>>>>>>> parent of 7c9f4204... Trees & Roads
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>

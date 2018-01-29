@@ -1,6 +1,7 @@
 sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Darius_City_Test 1.unity
 =======
 <<<<<<< HEAD
@@ -37,5 +38,8 @@ sceneSetups:
 >>>>>>> 6163e98737ff88a81506dd663d1331a3a3a7156e
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+- path: Assets/Scenes/Joe_City_Test.unity
+>>>>>>> parent of 7c9f4204... Trees & Roads
   isLoaded: 1
   isActive: 1
