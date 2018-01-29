@@ -139,12 +139,21 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="ResonaiEditorEnvironment">
       <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
       <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
     </Reference>
+=======
+    <Reference Include="Google.Protobuf">
+      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="ResonaiEditorEnvironment">
+      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
+    </Reference>
+>>>>>>> parent of 04a98c48... ROADSANSHit
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>
