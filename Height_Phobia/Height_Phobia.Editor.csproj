@@ -115,9 +115,6 @@
     <Reference Include="UnityEditor.iOS.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.WebGL.Extensions">
-      <HintPath>Library\UnityAssemblies\UnityEditor.WebGL.Extensions.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.LinuxStandalone.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
     </Reference>
@@ -139,52 +136,6 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7c9f4204... Trees & Roads
-=======
->>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
-=======
->>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of 04a98c4... ROADSANSHit
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
-    </Reference>
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
->>>>>>> parent of 04a98c48... ROADSANSHit
-=======
->>>>>>> parent of 6cffeec1... k;jhnjuiohnui
-=======
->>>>>>> parent of 7c9f4204... Trees & Roads
-=======
->>>>>>> parent of 04a98c4... ROADSANSHit
-=======
-=======
->>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
->>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
-=======
-=======
->>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
->>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>

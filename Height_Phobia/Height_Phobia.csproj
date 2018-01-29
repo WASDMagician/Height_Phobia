@@ -82,27 +82,6 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
-    </Reference>
-=======
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
-    </Reference>
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
->>>>>>> parent of 04a98c4... ROADSANSHit
-=======
->>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
-=======
->>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PROTO_Grey_Randomiser.cs" />
@@ -257,6 +236,7 @@
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
+    <Compile Include="Assets\Swap_Positions.cs" />
     <Compile Include="Assets\Tool_Remove_Collider.cs" />
     <Compile Include="Assets\Vive-Teleporter\Scripts\BorderRenderer.cs" />
     <Compile Include="Assets\Vive-Teleporter\Scripts\ParabolicPointer.cs" />
