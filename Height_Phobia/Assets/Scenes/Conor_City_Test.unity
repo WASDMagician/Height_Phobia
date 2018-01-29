@@ -1980,7 +1980,6 @@ Transform:
   - {fileID: 888533437}
   - {fileID: 1690355392}
   - {fileID: 346759293}
-  - {fileID: 919073861}
   - {fileID: 335912507}
   - {fileID: 1330898646}
   - {fileID: 1093019578}
@@ -1995,9 +1994,9 @@ Transform:
   - {fileID: 428389826}
   - {fileID: 955400161}
   - {fileID: 454983361}
+  - {fileID: 1358180846}
   - {fileID: 262527871}
   - {fileID: 1630019178}
-  - {fileID: 1358180846}
   - {fileID: 203812191}
   - {fileID: 405898178}
   - {fileID: 1371011721}
@@ -2010,7 +2009,6 @@ Transform:
   - {fileID: 946197450}
   - {fileID: 259967335}
   - {fileID: 373724546}
-  - {fileID: 1442283841}
   - {fileID: 228561256}
   - {fileID: 802361336}
   - {fileID: 1725951937}
@@ -2021,10 +2019,12 @@ Transform:
   - {fileID: 610003735}
   - {fileID: 1420753044}
   - {fileID: 1216305792}
+  - {fileID: 919073861}
   - {fileID: 6580647}
   - {fileID: 2078370973}
   - {fileID: 1379524246}
   - {fileID: 2056673446}
+  - {fileID: 1442283841}
   - {fileID: 73393203}
   - {fileID: 1115513240}
   - {fileID: 665531288}
@@ -36260,7 +36260,7 @@ Transform:
   - {fileID: 543093781}
   - {fileID: 209400090}
   m_Father: {fileID: 66346521}
-  m_RootOrder: 62
+  m_RootOrder: 101
   m_LocalEulerAnglesHint: {x: 0.98, y: -0.13900001, z: 1.0090001}
 >>>>>>> parent of 56d3b516... BlockedView
 --- !u!1 &920595811
@@ -57401,7 +57401,7 @@ Transform:
   - {fileID: 355531269}
   - {fileID: 88059073}
   m_Father: {fileID: 66346521}
-  m_RootOrder: 92
+  m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 56d3b516... BlockedView
 --- !u!1 &1444999997
