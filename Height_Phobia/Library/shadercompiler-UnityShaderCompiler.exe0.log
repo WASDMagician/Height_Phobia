@@ -6,6 +6,7 @@ Cmd: initializeCompiler
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of bf7e841e... FUCK YOU
 Cmd: compileSnippet
@@ -216,3 +217,7 @@ Cmd: compileSnippet
 >>>>>>> parent of bf7e841e... FUCK YOU
 =======
 >>>>>>> parent of 7c9f4204... Trees & Roads
+=======
+Cmd: preprocess
+  insize=640 outsize=1435 ok=1
+>>>>>>> parent of ef8bc438... uiopuy
