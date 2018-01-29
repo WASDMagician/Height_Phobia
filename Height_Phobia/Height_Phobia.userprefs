@@ -3,6 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Swap_Positions.cs">
     <Files>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <File FileName="Assets\Swap_Positions.cs" Line="6" Column="9" />
 <<<<<<< HEAD
       <File FileName="Assets\Resonai\README.txt" Line="1" Column="1" />
@@ -12,6 +13,10 @@
 >>>>>>> 1c04604f7e6dc9da3b5a94ac07278886824346ac
 =======
 >>>>>>> parent of 6cffeec1... k;jhnjuiohnui
+=======
+      <File FileName="Assets\Editor\Move_To.cs" Line="1" Column="1" />
+      <File FileName="Assets\Swap_Positions.cs" Line="19" Column="1" />
+>>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

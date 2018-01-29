@@ -3,6 +3,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Darius_City_Test 1.unity
 =======
 <<<<<<< HEAD
@@ -50,5 +51,11 @@ sceneSetups:
 >>>>>>> 6163e98737ff88a81506dd663d1331a3a3a7156e
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
+=======
+- path: Assets/Scenes/Darius_City_Test 1.unity
+=======
+- path: Assets/Scenes/Conor_City_Test.unity
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   isLoaded: 1
   isActive: 1

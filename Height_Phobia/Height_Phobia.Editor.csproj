@@ -143,14 +143,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 7c9f4204... Trees & Roads
+=======
+>>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     <Reference Include="ResonaiEditorEnvironment">
       <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
       <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -169,6 +173,10 @@
 >>>>>>> parent of 7c9f4204... Trees & Roads
 =======
 >>>>>>> parent of 04a98c4... ROADSANSHit
+=======
+=======
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>
@@ -196,7 +204,6 @@
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\SunShaftsEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\TonemappingEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs" />
-    <Compile Include="Assets\Resonai\Editor\ResonaiMeshDetailsInspectorProxy.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
@@ -297,10 +304,6 @@
     <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\Prototyping\UnityChan\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\Prototyping\UnityChan\license.txt" />
-    <None Include="Assets\Resonai\InternalResources\PreviewGizmo.shader" />
-    <None Include="Assets\Resonai\InternalResources\PreviewObject.shader" />
-    <None Include="Assets\Resonai\InternalResources\Transparent.shader" />
-    <None Include="Assets\Resonai\README.txt" />
     <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\Scripts\Joe\!placeholder.txt" />
     <None Include="Assets\Scripts\Michael\!placeholder.txt" />
