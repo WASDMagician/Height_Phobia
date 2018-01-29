@@ -159,6 +159,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
     x: 8
     y: 51
@@ -224,6 +225,8 @@ MonoBehaviour:
 >>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!114 &3
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 1518
     y: 0
     width: 386
@@ -280,11 +283,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1266
     height: 970
   m_MinSize: {x: 360, y: 390}
   m_MaxSize: {x: 4000, y: 4000}
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     width: 376
     height: 591
 =======
@@ -362,6 +368,7 @@ MonoBehaviour:
 <<<<<<< HEAD
   m_LastSelected: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &4
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 <<<<<<< HEAD
@@ -377,6 +384,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
   m_LastSelected: 1
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
@@ -519,6 +528,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 7c9f4204... Trees & Roads
     y: 0
     width: 1266
@@ -539,6 +549,8 @@ MonoBehaviour:
 >>>>>>> parent of 04a98c48... ROADSANSHit
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     y: 961
     width: 1904
 =======
@@ -583,6 +595,7 @@ MonoBehaviour:
 =======
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1266
     height: 970
   m_MinSize: {x: 200, y: 222}
@@ -600,6 +613,8 @@ MonoBehaviour:
 >>>>>>> 6163e98737ff88a81506dd663d1331a3a3a7156e
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     width: 1518
     height: 931
 =======
@@ -771,6 +786,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1518
     y: 0
     width: 386
@@ -850,6 +866,8 @@ MonoBehaviour:
   m_ActualView: {fileID: 17}
 >>>>>>> parent of b6dd9f15... Added Vehicles
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 376
     y: 0
     width: 1142
@@ -2487,6 +2505,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 730
     width: 1325
     height: 250
@@ -2548,11 +2567,16 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     y: 730
     width: 1325
     height: 250
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_SearchFilter:
     m_NameFilter: buildings
     m_ClassNames: []
@@ -2572,6 +2596,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -2581,6 +2606,8 @@ MonoBehaviour:
 <<<<<<< HEAD
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -2833,7 +2860,25 @@ MonoBehaviour:
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
     m_ExpandedIDs: 00000000167a0000927b0000ee7c0000ae7e0000d47e00001a7f00003e7f000004810000528200006c8200007082000082820000a48200002484000038840000ae850000128600009e870000a4870000848800009a890000aa890000648a0000768a0000528b0000088c0000488c0000ea8c0000a08d0000788f0000888f0000d08f0000cc910000ee9100004c92000050920000c8930000ca930000cc930000ce930000d0930000d2930000d4930000d6930000d8930000da930000dc930000de930000e093000000ca9a3bffffff7f
+<<<<<<< HEAD
 >>>>>>> parent of ef8bc438... uiopuy
+=======
+=======
+    - Assets/Art/Materials
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Art/Materials
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Temp\VR\Height_Phobia\Height_Phobia
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 203a0000
+    m_LastClickedID: 14880
+    m_ExpandedIDs: 000000006e280000502b0000d02c00006c2e0000882e00002e2f00004c2f000046320000ec330000fe3300000e340000323400001a360000183800008e380000b63a0000523b0000fe3c00004c3e0000643e0000d63f00009c40000054420000be450000444600005847000064470000c2470000c64700004c8700004e87000050870000528700005487000056870000588700005a8700005c8700005e87000060870000628700006487000000ca9a3bffffff7f
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2861,6 +2906,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2952,6 +2998,12 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000167a0000927b0000ee7c0000ae7e0000d47e00001a7f00003e7f000004810000528200006c8200007082000082820000a48200002484000038840000ae850000128600009e870000a4870000848800009a890000aa890000648a0000768a0000528b0000088c0000488c0000ea8c0000a08d0000788f0000d08f0000cc910000ee9100004c92000050920000c8930000ca930000cc930000ce930000d0930000d2930000d4930000d6930000d8930000da930000dc930000de930000e0930000
 >>>>>>> parent of ef8bc438... uiopuy
+=======
+    m_ExpandedIDs: 00000000167a0000927b0000ee7c0000ae7e0000d47e00001a7f00003e7f000004810000528200006c8200007082000082820000a48200002484000038840000ae850000128600009e870000a4870000848800009a890000aa890000648a0000768a0000528b0000088c0000488c0000ea8c0000a08d0000788f0000d08f0000cc910000ee9100004c92000050920000c8930000ca930000cc930000ce930000d0930000d2930000d4930000d6930000d8930000da930000dc930000de930000e0930000
+=======
+    m_ExpandedIDs: 000000006e280000502b0000d02c00006c2e0000882e00002e2f00004c2f000046320000ec330000fe3300000e340000323400001a360000183800008e380000b63a0000523b0000fe3c00004c3e0000643e0000d63f00009c40000054420000be450000444600005847000064470000c2470000c64700004c8700004e87000050870000528700005487000056870000588700005a8700005c8700005e870000608700006287000064870000
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2984,6 +3036,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000728f0000088d0000
 =======
@@ -3009,13 +3062,18 @@ MonoBehaviour:
 >>>>>>> 1c04604f7e6dc9da3b5a94ac07278886824346ac
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000728f0000088d0000
 =======
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3057,11 +3115,18 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 264
 =======
 <<<<<<< HEAD
   m_DirectoriesAreaWidth: 309
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+  m_DirectoriesAreaWidth: 264
+=======
+  m_DirectoriesAreaWidth: 309
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 --- !u!114 &14
 =======
 <<<<<<< HEAD
@@ -3133,6 +3198,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1528
     y: 100
     width: 384
@@ -3174,11 +3240,14 @@ MonoBehaviour:
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 1528
     y: 100
     width: 384
     height: 910
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
@@ -3208,12 +3277,17 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 1337
     y: 100
     width: 335
     height: 880
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -3290,8 +3364,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     width: 374
     height: 570
   m_TreeViewState:
@@ -3317,6 +3394,7 @@ MonoBehaviour:
     m_SelectedIDs: 2ce00000
     m_LastClickedID: 57388
     m_ExpandedIDs: 22b1fdff684cfeff6c52feff0000000098d4000000d60000aad60000c0d70000dad90000a8da00002adb000078e0000040e200009ce4000082e500009ee60000f8e60000c2e900002aec000092ef0000
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3443,6 +3521,8 @@ MonoBehaviour:
 >>>>>>> parent of ef8bc438... uiopuy
 =======
 =======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
     width: 290
     height: 609
   m_TreeViewState:
@@ -3451,9 +3531,12 @@ MonoBehaviour:
     m_LastClickedID: -326816
     m_ExpandedIDs: 18fcffff00000000d24900007e5000001e5300009c570000ce5c0000da5c0000c05d0000765f0000e4600000c263000062680000
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of ef8bc438... uiopuy
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3500,6 +3583,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
       m_ClientGUIView: {fileID: 0}
 =======
 <<<<<<< HEAD
@@ -3536,6 +3622,7 @@ MonoBehaviour:
   m_ExpandedScenes:
   - Conor_City_Test
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -3559,6 +3646,8 @@ MonoBehaviour:
     m_SearchString: 
   m_ExpandedScenes:
   - Joe_City_Test
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -3636,6 +3725,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 386
 =======
 <<<<<<< HEAD
@@ -3664,6 +3754,8 @@ MonoBehaviour:
 >>>>>>> aca7eb31e29c87da1f452f9dc296ab5b97693aeb
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 386
 >>>>>>> 30b92a651b250636e4d2cc63c3812dccdc2d86d6
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
@@ -3676,6 +3768,7 @@ MonoBehaviour:
 <<<<<<< HEAD
   lastFramingTime: 14665.963445526093
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
   lastFramingTime: 332.4048211450469
 >>>>>>> parent of 56d3b516... BlockedView
@@ -3758,6 +3851,8 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 302
     y: 100
     width: 1031
@@ -3765,7 +3860,10 @@ MonoBehaviour:
   m_SceneLighting: 1
   lastFramingTime: 1461.0051070461157
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
@@ -3779,12 +3877,16 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_Target: {x: -1144.4032, y: 34.176945, z: 1015.7919}
     speed: 2
     m_Value: {x: -1144.4032, y: 34.176945, z: 1015.7919}
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 6.0267334, y: -106.81116, z: 230.84619}
     speed: 2
@@ -3877,11 +3979,16 @@ MonoBehaviour:
 =======
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_Target: {x: 1006.24115, y: 366.8869, z: 456.67584}
     speed: 2
     m_Value: {x: 1006.24115, y: 366.8869, z: 456.67584}
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -3913,8 +4020,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_Target: {x: -0.096753314, y: 0.5441501, z: -0.063210465, w: -0.83120745}
     speed: 2
     m_Value: {x: -0.096735805, y: 0.54405165, z: -0.06319903, w: -0.8310571}
@@ -3923,6 +4033,7 @@ MonoBehaviour:
     speed: 2
     m_Value: 2000.9062
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 0.36101538, y: -0.21126868, z: 0.08437426, w: 0.9043863}
 =======
@@ -4079,6 +4190,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_Target: {x: 0.35607994, y: -0.31737483, z: 0.13005303, w: 0.8692333}
     speed: 2
     m_Value: {x: 0.35607994, y: -0.31737483, z: 0.13005303, w: 0.8692333}
@@ -4087,7 +4200,10 @@ MonoBehaviour:
     speed: 2
     m_Value: 1369.1533
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -4168,17 +4284,21 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 <<<<<<< HEAD
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 386
     y: 100
     width: 1138
     height: 542
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4275,12 +4395,17 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     x: 302
     y: 100
     width: 1031
     height: 609
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 1
@@ -4296,17 +4421,21 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 <<<<<<< HEAD
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_HBaseRangeMin: -569
     m_HBaseRangeMax: 569
     m_VBaseRangeMin: -262.5
     m_VBaseRangeMax: 262.5
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4403,12 +4532,17 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_HBaseRangeMin: -515.5
     m_HBaseRangeMax: 515.5
     m_VBaseRangeMin: -296
     m_VBaseRangeMax: 296
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -4486,17 +4620,21 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 <<<<<<< HEAD
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
       width: 1138
       height: 525
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 569, y: 262.5}
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4596,12 +4734,17 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
       width: 1031
       height: 592
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 515.5, y: 296}
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -4615,17 +4758,21 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 <<<<<<< HEAD
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
       x: -569
       y: -262.5
       width: 1138
       height: 525
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4722,16 +4869,22 @@ MonoBehaviour:
 >>>>>>> fc59768f39c888a1089ddf4073f40de09adb6bff
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
       x: -515.5
       y: -296
       width: 1031
       height: 592
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4762,11 +4915,16 @@ MonoBehaviour:
   m_LastWindowPixelSize: {x: 1532, y: 790}
 >>>>>>> 1c04604f7e6dc9da3b5a94ac07278886824346ac
 =======
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_LastWindowPixelSize: {x: 1138, y: 542}
 =======
   m_LastWindowPixelSize: {x: 1031, y: 609}
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -4884,6 +5042,7 @@ MonoBehaviour:
     height: 308
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4927,8 +5086,13 @@ MonoBehaviour:
 >>>>>>> parent of 04a98c4... ROADSANSHit
 =======
 =======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
     y: 730
     width: 1325
     height: 250
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+<<<<<<< HEAD
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"

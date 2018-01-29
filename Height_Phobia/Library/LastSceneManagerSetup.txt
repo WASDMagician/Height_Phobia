@@ -4,6 +4,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Darius_City_Test 1.unity
 =======
 <<<<<<< HEAD
@@ -57,5 +58,11 @@ sceneSetups:
 - path: Assets/Scenes/Conor_City_Test.unity
 >>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
 >>>>>>> parent of 4ada262... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+- path: Assets/Scenes/Darius_City_Test 1.unity
+=======
+- path: Assets/Scenes/Conor_City_Test.unity
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   isLoaded: 1
   isActive: 1

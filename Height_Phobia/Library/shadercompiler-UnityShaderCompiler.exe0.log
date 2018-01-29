@@ -10,6 +10,7 @@ Cmd: initializeCompiler
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of bf7e841e... FUCK YOU
 Cmd: compileSnippet
@@ -248,3 +249,9 @@ Cmd: preprocess
 Cmd: preprocess
   insize=640 outsize=1435 ok=1
 >>>>>>> parent of ef8bc438... uiopuy
+=======
+Cmd: preprocess
+  insize=640 outsize=1435 ok=1
+=======
+>>>>>>> 56d3b516791484ca23c180cc2b802169386f1b38
+>>>>>>> parent of 4ada2621... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
