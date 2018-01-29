@@ -3,7 +3,11 @@ guid: 4745f1ac0883e6048bc0591f23f74a1d
 timeCreated: 1473155886
 licenseType: Store
 ModelImporter:
+<<<<<<< HEAD
   serializedVersion: 21
+=======
+  serializedVersion: 19
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
@@ -17,11 +21,17 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+<<<<<<< HEAD
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
+=======
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -32,7 +42,10 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+<<<<<<< HEAD
     extraUserProperties: []
+=======
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -40,10 +53,14 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+<<<<<<< HEAD
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+=======
+    importBlendShapes: 1
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -59,11 +76,17 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+<<<<<<< HEAD
     normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
+=======
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
     human: []
     skeleton: []
     armTwist: 0.5
@@ -74,10 +97,14 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+<<<<<<< HEAD
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
+=======
+    hasTranslationDoF: 0
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1
