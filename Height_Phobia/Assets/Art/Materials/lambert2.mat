@@ -40,10 +40,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_Texture: {fileID: 2800000, guid: ce29b85b70007974ea762699fe4e962a, type: 3}
 =======
         m_Texture: {fileID: 2800000, guid: ccff2ff8fb512be43b6d44f04ac39bfa, type: 3}
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+        m_Texture: {fileID: 0}
+>>>>>>> parent of 6cffeec1... k;jhnjuiohnui
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -77,8 +81,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _Color: {r: 1, g: 1, b: 1, a: 1}
 =======
     - _Color: {r: 0.07560553, g: 0.33823532, b: 0.009948107, a: 1}
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+>>>>>>> parent of 6cffeec1... k;jhnjuiohnui
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
