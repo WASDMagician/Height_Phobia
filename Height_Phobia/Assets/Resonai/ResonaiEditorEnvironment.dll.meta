@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 3dc32495ff465c74cb3c7d9ff6f287ac
 timeCreated: 1516796610
 licenseType: Free
+=======
+guid: cf6d42fa8095fe04592b3d062cda4765
+timeCreated: 1509545062
+licenseType: Store
+>>>>>>> parent of 04a98c4... ROADSANSHit
 PluginImporter:
   serializedVersion: 2
   iconMap: {}
@@ -11,19 +17,125 @@ PluginImporter:
   platformData:
     data:
       first:
+<<<<<<< HEAD
         Any: 
       second:
         enabled: 1
+=======
+        '': Any
+      second:
+        enabled: 0
+        settings:
+          Exclude Editor: 0
+          Exclude Linux: 1
+          Exclude Linux64: 1
+          Exclude LinuxUniversal: 1
+          Exclude OSXIntel: 1
+          Exclude OSXIntel64: 1
+          Exclude OSXUniversal: 1
+          Exclude Win: 1
+          Exclude Win64: 1
+    data:
+      first:
+        '': Editor
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+          OS: AnyOS
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+>>>>>>> parent of 04a98c4... ROADSANSHit
         settings: {}
     data:
       first:
         Editor: Editor
       second:
+<<<<<<< HEAD
         enabled: 0
+=======
+        enabled: 1
+>>>>>>> parent of 04a98c4... ROADSANSHit
         settings:
           DefaultValueInitialized: true
     data:
       first:
+<<<<<<< HEAD
+=======
+        Facebook: Win
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+    data:
+      first:
+        Facebook: Win64
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+    data:
+      first:
+        Standalone: Linux
+      second:
+        enabled: 0
+        settings:
+          CPU: x86
+    data:
+      first:
+        Standalone: Linux64
+      second:
+        enabled: 0
+        settings:
+          CPU: x86_64
+    data:
+      first:
+        Standalone: LinuxUniversal
+      second:
+        enabled: 0
+        settings:
+          CPU: None
+    data:
+      first:
+        Standalone: OSXIntel
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+    data:
+      first:
+        Standalone: OSXIntel64
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+    data:
+      first:
+        Standalone: OSXUniversal
+      second:
+        enabled: 0
+        settings:
+          CPU: None
+    data:
+      first:
+        Standalone: Win
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+    data:
+      first:
+        Standalone: Win64
+      second:
+        enabled: 0
+        settings:
+          CPU: AnyCPU
+    data:
+      first:
+>>>>>>> parent of 04a98c4... ROADSANSHit
         Windows Store Apps: WindowsStoreApps
       second:
         enabled: 0

@@ -360,6 +360,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 6580646}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &8607501
 GameObject:
   m_ObjectHideFlags: 0
@@ -441,6 +442,8 @@ MeshFilter:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &10578295
 GameObject:
   m_ObjectHideFlags: 0
@@ -808,6 +811,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300028, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &19772779
 =======
 <<<<<<< HEAD
@@ -889,6 +893,8 @@ MeshFilter:
 --- !u!1 &21305891
 GameObject:
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &17057867
 Prefab:
 >>>>>>> parent of 04a98c48... ROADSANSHit
@@ -1823,6 +1829,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &55453847
 Prefab:
@@ -1901,6 +1908,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &56653443
 GameObject:
   m_ObjectHideFlags: 0
@@ -2338,6 +2347,7 @@ Transform:
   - {fileID: 895648837}
   - {fileID: 1779108125}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 305599747}
   - {fileID: 1303080930}
   - {fileID: 1874131724}
@@ -2348,13 +2358,18 @@ Transform:
   - {fileID: 1114158029}
   - {fileID: 1254251325}
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   - {fileID: 421165606}
   - {fileID: 1824090466}
   - {fileID: 409732363}
   - {fileID: 1643270665}
   - {fileID: 1163268124}
   - {fileID: 1356107433}
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_Father: {fileID: 1258809071}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5584,21 +5599,28 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &147811500
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1218100692341146, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
 =======
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1454473797}
@@ -5617,10 +5639,14 @@ MeshRenderer:
   m_PrefabParentObject: {fileID: 23760934064165636, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
 =======
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_GameObject: {fileID: 147811500}
   m_Enabled: 1
   m_CastShadows: 1
@@ -5654,6 +5680,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 33220215050059278, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 147811500}
   m_Mesh: {fileID: 4300000, guid: c73498fc29c18214ab8cdc9c001e6caa, type: 3}
@@ -5668,6 +5695,11 @@ MeshFilter:
   m_GameObject: {fileID: 147811500}
   m_Mesh: {fileID: 4300000, guid: c73498fc29c18214ab8cdc9c001e6caa, type: 3}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 147811500}
+  m_Mesh: {fileID: 4300000, guid: c73498fc29c18214ab8cdc9c001e6caa, type: 3}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &151380297
 GameObject:
   m_ObjectHideFlags: 0
@@ -5938,6 +5970,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 160796630}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &164351507
 Prefab:
   m_ObjectHideFlags: 0
@@ -6020,6 +6053,8 @@ Transform:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &165245940
 GameObject:
   m_ObjectHideFlags: 0
@@ -8251,8 +8286,11 @@ Transform:
   m_Father: {fileID: 1983986429}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &207618775
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &213474646
 Prefab:
   m_ObjectHideFlags: 0
@@ -10829,6 +10867,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300006, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &256910249
 GameObject:
@@ -10906,6 +10945,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &259130000
 GameObject:
   m_ObjectHideFlags: 0
@@ -10938,7 +10979,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &259325564
 Prefab:
   m_ObjectHideFlags: 0
@@ -11001,7 +11045,10 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 259325564}
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &259967334
 Prefab:
   m_ObjectHideFlags: 0
@@ -13583,6 +13630,7 @@ MeshFilter:
   m_GameObject: {fileID: 325283893}
   m_Mesh: {fileID: 4300010, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 --- !u!1 &329205100
+<<<<<<< HEAD
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1101121594590846, guid: d427a618363251342ab135e5905634f2,
@@ -13656,6 +13704,8 @@ MeshFilter:
   m_GameObject: {fileID: 329205100}
   m_Mesh: {fileID: 4300016, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 --- !u!1 &329953291
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1170995558317738, guid: d427a618363251342ab135e5905634f2,
@@ -15487,6 +15537,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300028, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &377361839
 =======
 <<<<<<< HEAD
@@ -15571,6 +15622,8 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 2479ab0398756504e8cf14eaccc29412, type: 3}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &373724545
 Prefab:
   m_ObjectHideFlags: 0
@@ -16663,6 +16716,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 397044334}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &398023205
 GameObject:
   m_ObjectHideFlags: 0
@@ -16744,6 +16798,8 @@ MeshFilter:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &402155298
 GameObject:
   m_ObjectHideFlags: 0
@@ -17157,6 +17213,7 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
@@ -17164,6 +17221,9 @@ MeshFilter:
 =======
 --- !u!1001 &409732362
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+--- !u!1001 &409732362
+>>>>>>> parent of 04a98c4... ROADSANSHit
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -17237,6 +17297,7 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 409441362}
 <<<<<<< HEAD
 >>>>>>> parent of 56d3b516... BlockedView
@@ -17247,6 +17308,9 @@ Transform:
 =======
   m_PrefabInternal: {fileID: 409732362}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 409732362}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &410233518
 GameObject:
   m_ObjectHideFlags: 0
@@ -19569,7 +19633,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
-      value: 78
+      value: 81
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -19594,80 +19658,6 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 454983360}
---- !u!1001 &461790429
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 919073861}
-    m_Modifications:
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -545
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 14.994
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 333.27
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.4991808
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.5092828
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.4919306
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.49945357
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_RootOrder
-      value: 65
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -91.406
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -45.826996
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -224.025
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_Name
-      value: wide_road (211)
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.99999976
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.9999999
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.99999994
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-  m_IsPrefabParent: 0
---- !u!4 &461790430 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
-  m_PrefabInternal: {fileID: 461790429}
 --- !u!1001 &462426675
 Prefab:
   m_ObjectHideFlags: 0
@@ -19705,7 +19695,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20536,6 +20526,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &495847526
 GameObject:
   m_ObjectHideFlags: 0
@@ -20669,6 +20660,8 @@ Transform:
   m_PrefabInternal: {fileID: 488895618}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &495365680
 Prefab:
   m_ObjectHideFlags: 0
@@ -23243,6 +23236,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 538488246}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &539691143
 Prefab:
   m_ObjectHideFlags: 0
@@ -23325,6 +23319,8 @@ Transform:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &540819578
 GameObject:
   m_ObjectHideFlags: 0
@@ -23798,6 +23794,7 @@ MeshFilter:
   m_GameObject: {fileID: 558868638}
   m_Mesh: {fileID: 4300006, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &560662123
 Prefab:
   m_ObjectHideFlags: 0
@@ -23875,6 +23872,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &561452231
 GameObject:
   m_ObjectHideFlags: 0
@@ -25399,6 +25398,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &590013436
 Prefab:
@@ -25465,6 +25465,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &592141537
 GameObject:
   m_ObjectHideFlags: 0
@@ -26514,11 +26516,14 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &621399702
 Prefab:
   m_ObjectHideFlags: 0
@@ -26663,6 +26668,7 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
@@ -26742,6 +26748,8 @@ Transform:
   m_PrefabInternal: {fileID: 628454901}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &631468134
 Prefab:
   m_ObjectHideFlags: 0
@@ -27567,6 +27575,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 657459610}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &660272640
 Prefab:
   m_ObjectHideFlags: 0
@@ -27649,6 +27658,8 @@ Transform:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &660301338
 GameObject:
   m_ObjectHideFlags: 0
@@ -30069,6 +30080,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300002, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &727272929
 GameObject:
@@ -30146,6 +30158,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &728240797
 GameObject:
   m_ObjectHideFlags: 0
@@ -30864,6 +30878,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &740640453
 GameObject:
@@ -30941,6 +30956,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &745889010
 GameObject:
   m_ObjectHideFlags: 0
@@ -32232,6 +32249,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &776457055
 Prefab:
@@ -32310,6 +32328,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &778273608
 GameObject:
   m_ObjectHideFlags: 0
@@ -32652,10 +32672,14 @@ Prefab:
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 281.97
 =======
       value: 300
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 300
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalPosition.y
@@ -32663,6 +32687,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< HEAD
 <<<<<<< HEAD
       value: -231.98
 =======
@@ -32679,6 +32704,9 @@ Prefab:
 =======
       value: -232.01
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: -232.01
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalRotation.x
@@ -32700,6 +32728,7 @@ Prefab:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 20
 =======
       value: 8
@@ -32707,6 +32736,9 @@ Prefab:
 =======
       value: 22
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 22
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -32873,6 +32905,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 784138538}
   m_Mesh: {fileID: 4300028, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &791054662
@@ -33082,6 +33115,8 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 6cc27726e6a93d543af4ea6d9fe6770b, type: 3}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &789050738
 Prefab:
   m_ObjectHideFlags: 0
@@ -34898,6 +34933,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 838568428}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &839510061
 <<<<<<< HEAD
 >>>>>>> parent of 56d3b516... BlockedView
@@ -34978,6 +35014,8 @@ MeshFilter:
 >>>>>>> 30b92a651b250636e4d2cc63c3812dccdc2d86d6
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &840201052
 GameObject:
   m_ObjectHideFlags: 0
@@ -37322,6 +37360,7 @@ MeshFilter:
   m_GameObject: {fileID: 902818835}
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &909743718
 GameObject:
   m_ObjectHideFlags: 0
@@ -37400,6 +37439,8 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 2479ab0398756504e8cf14eaccc29412, type: 3}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &909743718
 GameObject:
   m_ObjectHideFlags: 0
@@ -38131,6 +38172,7 @@ Transform:
   - {fileID: 564003220}
   - {fileID: 1187431720}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 906494549}
   - {fileID: 852922516}
   - {fileID: 1706717538}
@@ -38184,6 +38226,10 @@ Transform:
   m_Father: {fileID: 66346521}
   m_RootOrder: 131
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_Father: {fileID: 66346521}
+  m_RootOrder: 131
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_LocalEulerAnglesHint: {x: 0.98, y: -0.13900001, z: 1.0090001}
 <<<<<<< HEAD
 >>>>>>> parent of 56d3b516... BlockedView
@@ -39839,6 +39885,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300014, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &962320412
 Prefab:
@@ -39905,6 +39952,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &965521116
 GameObject:
   m_ObjectHideFlags: 0
@@ -40013,6 +40062,7 @@ MeshFilter:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_GameObject: {fileID: 967372879}
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -40310,6 +40360,8 @@ MeshFilter:
 >>>>>>> 30b92a651b250636e4d2cc63c3812dccdc2d86d6
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &974778559
 GameObject:
   m_ObjectHideFlags: 0
@@ -42143,6 +42195,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
@@ -42222,6 +42275,8 @@ Transform:
   m_PrefabInternal: {fileID: 1031421589}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1031874347
 Prefab:
   m_ObjectHideFlags: 0
@@ -43139,6 +43194,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &1051388456
 Prefab:
@@ -43205,6 +43261,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1052196028
 GameObject:
   m_ObjectHideFlags: 0
@@ -43628,6 +43686,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1064764857
 GameObject:
@@ -43705,6 +43764,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1065297149
 GameObject:
   m_ObjectHideFlags: 0
@@ -43779,6 +43840,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1065297149}
   m_Mesh: {fileID: 4300000, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -43915,6 +43977,8 @@ MeshFilter:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1072953579
 GameObject:
   m_ObjectHideFlags: 0
@@ -44677,10 +44741,14 @@ Prefab:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 11
 =======
       value: 69
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 69
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -45605,9 +45673,12 @@ MeshFilter:
   m_GameObject: {fileID: 1114017521}
   m_Mesh: {fileID: 4300008, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1115977297
 GameObject:
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1115513239
 Prefab:
 >>>>>>> parent of 04a98c48... ROADSANSHit
@@ -45650,10 +45721,14 @@ Prefab:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 68
 =======
       value: 112
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 112
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -45755,6 +45830,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 --- !u!1 &1116512298
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1104533946}
@@ -45825,6 +45901,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1258492016797720, guid: d427a618363251342ab135e5905634f2,
@@ -48513,6 +48591,7 @@ MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 33033993723774578, guid: d427a618363251342ab135e5905634f2,
     type: 2}
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1173420788}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
@@ -48655,6 +48734,12 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 --- !u!1001 &1176360639
+=======
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1126609081}
+  m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+--- !u!1001 &1133241772
+>>>>>>> parent of 04a98c4... ROADSANSHit
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -48663,6 +48748,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalPosition.x
+<<<<<<< HEAD
       value: -40.999
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
@@ -48672,6 +48758,17 @@ Prefab:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalPosition.z
       value: -723.01
+=======
+      value: 650
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.10001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -232.01
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalRotation.x
@@ -48691,7 +48788,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 125
+=======
+      value: 29
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -49052,12 +49153,77 @@ MeshFilter:
 <<<<<<< HEAD
   m_GameObject: {fileID: 1138976566}
   m_Mesh: {fileID: 4300006, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
+--- !u!1 &1147647773
+=======
+--- !u!1001 &1144349183
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 66346521}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -40.999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.30004
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -573.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00000024189964
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.00000029057264
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_RootOrder
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.00002
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_Name
+      value: wide_road (152)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1144349184 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_PrefabInternal: {fileID: 1144349183}
 --- !u!1 &1147647773
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1503049301948314, guid: d427a618363251342ab135e5905634f2,
     type: 2}
-  m_PrefabInternal: {fileID: 1864298656}
+  m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1147647774}
@@ -49071,17 +49237,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1147647774
-=======
-  m_GameObject: {fileID: 1183227005}
-  m_Mesh: {fileID: 4300000, guid: 3c2348bc8c30a514eaf3b666058cf5b9, type: 3}
---- !u!4 &1187216053
->>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 4636292277082814, guid: d427a618363251342ab135e5905634f2,
     type: 2}
-  m_PrefabInternal: {fileID: 1864298656}
-<<<<<<< HEAD
+  m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1147647773}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: -0.73, y: 5.91, z: 1.55}
@@ -49091,6 +49251,129 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1147647775
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 23736879719825036, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1147647773}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 14ff4667a927d7148a2e8fc65b12c1c3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1147647776
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 33561002846137222, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1147647773}
+  m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+--- !u!1 &1147848240
+>>>>>>> parent of 04a98c4... ROADSANSHit
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1548598764775426, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1864298656}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1147848241}
+  m_Layer: 0
+  m_Name: collider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1147647774
+=======
+  m_GameObject: {fileID: 1183227005}
+  m_Mesh: {fileID: 4300000, guid: 3c2348bc8c30a514eaf3b666058cf5b9, type: 3}
+--- !u!4 &1187216053
+>>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
+=======
+--- !u!4 &1147848241
+>>>>>>> parent of 04a98c4... ROADSANSHit
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4258729112344230, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+<<<<<<< HEAD
+  m_PrefabInternal: {fileID: 1864298656}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1147647773}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0.73, y: 5.91, z: 1.55}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+=======
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1147848240}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.07, y: -0.36, z: 2.81}
+  m_LocalScale: {x: 0.6666667, y: 0.6666667, z: 0.6666667}
+>>>>>>> parent of 04a98c4... ROADSANSHit
+  m_Children: []
+  m_Father: {fileID: 1678917926}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1151577876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1477646489229296, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1151577877}
+  - component: {fileID: 1151577879}
+  - component: {fileID: 1151577878}
+  m_Layer: 0
+  m_Name: roof05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1151577877
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4527668520858556, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1151577876}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 6.75, z: -0.01}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 685662238}
+  m_Father: {fileID: 266955746}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1151577878
 MeshRenderer:
 =======
   m_GameObject: {fileID: 447696875}
@@ -49118,6 +49401,7 @@ MeshRenderer:
 Prefab:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_PrefabParentObject: {fileID: 23736879719825036, guid: d427a618363251342ab135e5905634f2,
     type: 2}
@@ -49312,6 +49596,11 @@ MeshRenderer:
 =======
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabParentObject: {fileID: 23651573275927728, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_GameObject: {fileID: 1151577876}
   m_Enabled: 1
   m_CastShadows: 1
@@ -50725,10 +51014,14 @@ Prefab:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 102
 =======
       value: 32
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 32
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -51995,10 +52288,14 @@ Prefab:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 52
 =======
       value: 106
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 106
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -52509,6 +52806,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 1224767755}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1225594355
 Prefab:
   m_ObjectHideFlags: 0
@@ -52588,6 +52886,8 @@ Transform:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1227170579
 =======
   m_PrefabInternal: {fileID: 0}
@@ -53078,10 +53378,14 @@ Prefab:
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 144
 =======
       value: 48
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 48
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -54338,7 +54642,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1265650973
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1037295468883052, guid: d427a618363251342ab135e5905634f2,
@@ -54412,7 +54719,10 @@ MeshFilter:
   m_GameObject: {fileID: 1265650973}
   m_Mesh: {fileID: 4300012, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 --- !u!1 &1266721024
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1363948643350130, guid: d427a618363251342ab135e5905634f2,
@@ -54437,11 +54747,14 @@ Transform:
   m_PrefabParentObject: {fileID: 4310088625234846, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1265650973}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 3.14, z: 0.24}
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1266721024}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -54457,6 +54770,7 @@ Transform:
   - {fileID: 159234613}
   m_Father: {fileID: 1317789664}
   m_RootOrder: 17
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1266721026
 MeshRenderer:
@@ -54746,6 +55060,103 @@ MeshRenderer:
 =======
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1266721026
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 23730336357135590, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1266721024}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 6dc7150b7cf7c4e49a96f671493ae816, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!64 &1266721027
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 64004712784791850, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1266721024}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &1266721028
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 33180465516104854, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1266721024}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1266986205
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1945531734683004, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1266986206}
+  - component: {fileID: 1266986208}
+  - component: {fileID: 1266986207}
+  m_Layer: 0
+  m_Name: block03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1266986206
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4229785835047314, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1266986205}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 1.18, z: -0.02}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 680233233}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1266986207
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 23504050218291294, guid: d427a618363251342ab135e5905634f2,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_GameObject: {fileID: 1266986205}
   m_Enabled: 1
   m_CastShadows: 1
@@ -55627,6 +56038,9 @@ Transform:
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!4 &1292062078
 Transform:
   m_ObjectHideFlags: 0
@@ -55836,6 +56250,7 @@ MeshFilter:
 MeshFilter:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 33674140130696386, guid: d427a618363251342ab135e5905634f2,
     type: 2}
   m_PrefabInternal: {fileID: 0}
@@ -55864,6 +56279,64 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1289738116
+=======
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 66346521}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 240.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.10066
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -322.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0000002565565
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.00000028312203
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_RootOrder
+      value: 135
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.00002
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_Name
+      value: wide_road (95)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1293069959 stripped
+>>>>>>> parent of 04a98c4... ROADSANSHit
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 4847138599996540, guid: d427a618363251342ab135e5905634f2,
@@ -56028,6 +56501,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1300769377}
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1302226754
 GameObject:
   m_ObjectHideFlags: 0
@@ -56243,6 +56717,8 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1300769377}
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1302226754
 GameObject:
   m_ObjectHideFlags: 0
@@ -56273,6 +56749,7 @@ Transform:
   m_Father: {fileID: 1031218357}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &1303080929
 Prefab:
@@ -56339,6 +56816,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!4 &1307598481
 Transform:
   m_ObjectHideFlags: 0
@@ -57860,6 +58339,7 @@ MeshFilter:
   m_GameObject: {fileID: 1338373197}
   m_Mesh: {fileID: 4300020, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1340166940
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 GameObject:
@@ -57941,6 +58421,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1345656832
 GameObject:
   m_ObjectHideFlags: 0
@@ -58463,7 +58945,10 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 3c2348bc8c30a514eaf3b666058cf5b9, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1356107432
 Prefab:
   m_ObjectHideFlags: 0
@@ -58538,7 +59023,10 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 1356107432}
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1358180845
 Prefab:
   m_ObjectHideFlags: 0
@@ -58742,6 +59230,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 1364343094}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1368596542
 GameObject:
   m_ObjectHideFlags: 0
@@ -58823,6 +59312,8 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: c2c67a6807521424aa9ef3cac8387d7e, type: 3}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1371011720
 Prefab:
   m_ObjectHideFlags: 0
@@ -60049,6 +60540,7 @@ Prefab:
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 13.73
 =======
       value: 581.97
@@ -60056,9 +60548,13 @@ Prefab:
 =======
       value: 600
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 600
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1aae26365cf8e724c92cfd7f9a542a8e, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       value: -52.217
@@ -60068,9 +60564,13 @@ Prefab:
 =======
       value: -0.10001
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: -0.10001
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1aae26365cf8e724c92cfd7f9a542a8e, type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       value: 8.93
@@ -60080,6 +60580,9 @@ Prefab:
 =======
       value: -232.01
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: -232.01
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1aae26365cf8e724c92cfd7f9a542a8e, type: 3}
       propertyPath: m_LocalRotation.x
@@ -60117,6 +60620,7 @@ Prefab:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1aae26365cf8e724c92cfd7f9a542a8e, type: 3}
@@ -60131,6 +60635,9 @@ Prefab:
 =======
       value: 28
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+      value: 28
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -61447,10 +61954,14 @@ MeshFilter:
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1435980356
 =======
 --- !u!1001 &1436762235
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+--- !u!1001 &1436762235
+>>>>>>> parent of 04a98c4... ROADSANSHit
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -61511,6 +62022,7 @@ Prefab:
 --- !u!4 &1436762236 stripped
 Transform:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 1435980356}
 =======
@@ -61519,6 +62031,10 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 171e1e7eee0ec944c86cadfc138654d1, type: 3}
   m_PrefabInternal: {fileID: 1436762235}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabParentObject: {fileID: 400000, guid: 171e1e7eee0ec944c86cadfc138654d1, type: 3}
+  m_PrefabInternal: {fileID: 1436762235}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1439591561
 GameObject:
   m_ObjectHideFlags: 0
@@ -61685,6 +62201,7 @@ Transform:
   - {fileID: 1270312007}
   - {fileID: 91266114}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1641292986}
   - {fileID: 8607502}
   - {fileID: 325640572}
@@ -61717,6 +62234,8 @@ Transform:
 >>>>>>> 30b92a651b250636e4d2cc63c3812dccdc2d86d6
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_Father: {fileID: 66346521}
   m_RootOrder: 132
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -62091,22 +62610,29 @@ MeshFilter:
   m_Mesh: {fileID: 4300028, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!4 &1454473797
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 4543960252857802, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
 =======
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_GameObject: {fileID: 147811500}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071067}
   m_LocalPosition: {x: -142.6, y: -28.999954, z: -267.61}
@@ -62117,11 +62643,14 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 30b92a651b250636e4d2cc63c3812dccdc2d86d6
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1454737045
 GameObject:
   m_ObjectHideFlags: 0
@@ -65335,6 +65864,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1531800971
 GameObject:
@@ -65412,6 +65942,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1533837689
 GameObject:
   m_ObjectHideFlags: 0
@@ -66750,6 +67282,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300012, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1568443880
 =======
@@ -66762,22 +67295,103 @@ MeshFilter:
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1245846586795304, guid: d427a618363251342ab135e5905634f2,
+=======
+--- !u!1001 &1567780787
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 66346521}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -514
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.10001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0048866
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49999985
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.49999985
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -179.99998
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_Name
+      value: wide_road (68)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1567780788 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_PrefabInternal: {fileID: 1567780787}
+--- !u!1 &1569615588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1182913021977518, guid: d427a618363251342ab135e5905634f2,
+>>>>>>> parent of 04a98c4... ROADSANSHit
     type: 2}
   m_PrefabInternal: {fileID: 1864298656}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1566640880}
   m_Layer: 0
   m_Name: house01
+=======
+  - component: {fileID: 1569615589}
+  m_Layer: 0
+  m_Name: collider
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1566640880
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 4819854584402424, guid: d427a618363251342ab135e5905634f2,
+=======
+--- !u!4 &1569615589
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4071677631697546, guid: d427a618363251342ab135e5905634f2,
+>>>>>>> parent of 04a98c4... ROADSANSHit
     type: 2}
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1566640879}
@@ -66887,6 +67501,7 @@ Transform:
 <<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1568443880}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071067}
   m_LocalPosition: {x: -262.1, y: -28.8, z: -47.7}
@@ -66899,11 +67514,16 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
 >>>>>>> 30b92a651b250636e4d2cc63c3812dccdc2d86d6
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_GameObject: {fileID: 1569615588}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.07, y: 3.03, z: 0.19}
   m_LocalScale: {x: 0.6666667, y: 0.6666667, z: 0.6666667}
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_Children: []
   m_Father: {fileID: 728240798}
   m_RootOrder: 6
@@ -66948,6 +67568,7 @@ MeshRenderer:
 <<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1568443880}
 =======
   m_PrefabInternal: {fileID: 1864298656}
@@ -66956,6 +67577,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 1570075914}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_GameObject: {fileID: 1570075914}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -66989,6 +67613,7 @@ MeshFilter:
     type: 2}
 <<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1568443880}
   m_Mesh: {fileID: 4300000, guid: 2479ab0398756504e8cf14eaccc29412, type: 3}
@@ -67007,6 +67632,11 @@ MeshFilter:
   m_Mesh: {fileID: 4300006, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 --- !u!1 &1571616564
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_GameObject: {fileID: 1570075914}
+  m_Mesh: {fileID: 4300006, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+--- !u!1 &1571616564
+>>>>>>> parent of 04a98c4... ROADSANSHit
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1322488364386704, guid: d427a618363251342ab135e5905634f2,
@@ -67028,12 +67658,17 @@ Transform:
   m_PrefabParentObject: {fileID: 4032449071825374, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1569615588}
 =======
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1571616564}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1571616564}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.07, y: 3.04, z: 2.81}
   m_LocalScale: {x: 0.6666667, y: 0.6666667, z: 0.6666667}
@@ -67063,11 +67698,14 @@ Transform:
   m_PrefabParentObject: {fileID: 4911493199634238, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1570075914}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 3.18, z: 0.19}
 =======
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1572286199}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
@@ -67109,7 +67747,10 @@ Transform:
   m_GameObject: {fileID: 1575981116}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 1.15, z: 0}
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1194644364}
@@ -67120,6 +67761,7 @@ MeshRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 23087831662364982, guid: d427a618363251342ab135e5905634f2,
     type: 2}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1570075914}
@@ -67263,6 +67905,9 @@ MeshRenderer:
 =======
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_GameObject: {fileID: 1575981116}
   m_Enabled: 1
   m_CastShadows: 1
@@ -67906,6 +68551,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &1599494232
 Prefab:
@@ -67984,6 +68630,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1601379132
 GameObject:
   m_ObjectHideFlags: 0
@@ -68626,6 +69274,7 @@ MeshFilter:
   m_GameObject: {fileID: 1612033545}
   m_Mesh: {fileID: 4300010, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1615121810
 Prefab:
   m_ObjectHideFlags: 0
@@ -68765,6 +69414,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1615353854
 GameObject:
   m_ObjectHideFlags: 0
@@ -68973,6 +69624,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300010, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &1621348769
 Prefab:
@@ -69051,6 +69703,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1623736480
 GameObject:
   m_ObjectHideFlags: 0
@@ -69244,6 +69898,7 @@ Transform:
   m_Father: {fileID: 1870879159}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 =======
 Transform:
   m_ObjectHideFlags: 0
@@ -69324,6 +69979,8 @@ Transform:
   m_PrefabInternal: {fileID: 1628988600}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1630019177
 Prefab:
   m_ObjectHideFlags: 0
@@ -69977,6 +70634,7 @@ MeshFilter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
@@ -69986,6 +70644,10 @@ GameObject:
 --- !u!1001 &1643270664
 Prefab:
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+--- !u!1001 &1643270664
+Prefab:
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
@@ -70057,6 +70719,7 @@ Prefab:
 --- !u!4 &1643270665 stripped
 Transform:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 4001443875178860, guid: d427a618363251342ab135e5905634f2,
     type: 2}
@@ -70120,6 +70783,10 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 1643270664}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_PrefabInternal: {fileID: 1643270664}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1643828593
 GameObject:
   m_ObjectHideFlags: 0
@@ -72858,6 +73525,7 @@ MeshCollider:
   m_Mesh: {fileID: 4300000, guid: 13ec74a8958dca94ca79c28dcda925f2, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &1706717537
 Prefab:
@@ -72924,6 +73592,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1707718885
 GameObject:
   m_ObjectHideFlags: 0
@@ -73969,6 +74639,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
@@ -74048,6 +74719,8 @@ Transform:
   m_PrefabInternal: {fileID: 1726760643}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1730624803
 Prefab:
   m_ObjectHideFlags: 0
@@ -74288,6 +74961,7 @@ MeshFilter:
   m_GameObject: {fileID: 1731344416}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1732189920
 Prefab:
   m_ObjectHideFlags: 0
@@ -74365,6 +75039,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1736739155
 GameObject:
   m_ObjectHideFlags: 0
@@ -75024,6 +75700,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 171e1e7eee0ec944c86cadfc138654d1, type: 3}
   m_PrefabInternal: {fileID: 1747363282}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1747750547
 GameObject:
   m_ObjectHideFlags: 0
@@ -75105,6 +75782,8 @@ MeshFilter:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!4 &1750369385
 Transform:
   m_ObjectHideFlags: 0
@@ -75820,6 +76499,7 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1769758190
 GameObject:
   m_ObjectHideFlags: 0
@@ -75925,6 +76605,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1773894330
 GameObject:
   m_ObjectHideFlags: 0
@@ -76826,6 +77508,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1798844897
 Prefab:
   m_ObjectHideFlags: 0
@@ -76902,6 +77585,8 @@ Transform:
   m_PrefabInternal: {fileID: 1798844897}
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1799886647
 Prefab:
 >>>>>>> parent of 56d3b516... BlockedView
@@ -79326,6 +80011,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1864298656
 Prefab:
 =======
@@ -79457,6 +80143,8 @@ Prefab:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1868192899
 GameObject:
   m_ObjectHideFlags: 0
@@ -79755,6 +80443,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300010, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &1874131723
 Prefab:
@@ -79821,6 +80510,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1875009334
 GameObject:
   m_ObjectHideFlags: 0
@@ -81080,7 +81771,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 71
+=======
+      value: 134
+>>>>>>> parent of 04a98c4... ROADSANSHit
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -82030,6 +82725,71 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1906560509}
   m_Mesh: {fileID: 4300008, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!1001 &1906609499
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 66346521}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -564
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.10001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0048485
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49999985
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.49999985
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -179.99998
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+      propertyPath: m_Name
+      value: wide_road (67)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1906609500 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
+  m_PrefabInternal: {fileID: 1906609499}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1906788441
 =======
 --- !u!33 &1906788444
@@ -82423,6 +83183,7 @@ MeshFilter:
 =======
   m_GameObject: {fileID: 1916837765}
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1919284552
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 GameObject:
@@ -82527,6 +83288,8 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1916837765}
   m_Mesh: {fileID: 4300026, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1921067387
 GameObject:
   m_ObjectHideFlags: 0
@@ -83849,6 +84612,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1958738241
 GameObject:
@@ -83926,6 +84690,8 @@ MeshFilter:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1959361277
 GameObject:
   m_ObjectHideFlags: 0
@@ -84023,6 +84789,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!64 &1960519685
+<<<<<<< HEAD
 <<<<<<< HEAD
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -84180,10 +84947,13 @@ MeshRenderer:
 --- !u!64 &1962208348
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 MeshCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 64024302054192640, guid: d427a618363251342ab135e5905634f2,
     type: 2}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1962208345}
@@ -84191,6 +84961,10 @@ MeshCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1960519682}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1960519682}
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -84205,6 +84979,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 33498973015379382, guid: d427a618363251342ab135e5905634f2,
     type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1864298656}
   m_GameObject: {fileID: 1962208345}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
@@ -84215,6 +84990,11 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1960519682}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1960519682}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1001 &1961059532
 Prefab:
   m_ObjectHideFlags: 0
@@ -84278,7 +85058,10 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 1961059532}
 --- !u!1 &1962208345
+<<<<<<< HEAD
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 1508098609589130, guid: d427a618363251342ab135e5905634f2,
@@ -84366,6 +85149,7 @@ MeshFilter:
     type: 2}
   m_PrefabInternal: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1963150832}
   m_Mesh: {fileID: 4300000, guid: c2c67a6807521424aa9ef3cac8387d7e, type: 3}
 >>>>>>> parent of 56d3b516... BlockedView
@@ -84373,6 +85157,10 @@ MeshFilter:
   m_GameObject: {fileID: 1962208345}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+  m_GameObject: {fileID: 1962208345}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &1967299130
 GameObject:
   m_ObjectHideFlags: 0
@@ -85091,6 +85879,7 @@ Transform:
 <<<<<<< HEAD
   - {fileID: 639630946}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1266351780}
   - {fileID: 2090177622}
   - {fileID: 789658862}
@@ -85122,6 +85911,8 @@ Transform:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
   m_Father: {fileID: 1522974795}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -89089,7 +89880,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_RootOrder
-      value: 112
+      value: 116
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -89501,6 +90292,7 @@ Transform:
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2090177621}
@@ -89508,6 +90300,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &2090907131
 GameObject:
   m_ObjectHideFlags: 0
@@ -91050,6 +91844,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300010, guid: b838a4ddee3b0b54db617e1722c86a3f, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1001 &2121317356
 Prefab:
@@ -91128,6 +91923,8 @@ Transform:
 >>>>>>> parent of 56d3b516... BlockedView
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &2124549184
 GameObject:
   m_ObjectHideFlags: 0
@@ -91477,6 +92274,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 51a42e7b76746d74a8bf91cf2400ea43, type: 3}
   m_PrefabInternal: {fileID: 2137197471}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2138308952
 GameObject:
   m_ObjectHideFlags: 0
@@ -91632,6 +92430,8 @@ Transform:
 >>>>>>> parent of a37f4af5... Revert "Merge branch 'master' of https://github.com/WASDMagician/Height_Phobia"
 =======
 >>>>>>> parent of 04a98c48... ROADSANSHit
+=======
+>>>>>>> parent of 04a98c4... ROADSANSHit
 --- !u!1 &2140615379
 GameObject:
   m_ObjectHideFlags: 0
