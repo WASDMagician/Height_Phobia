@@ -82,16 +82,8 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
-    </Reference>
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PROTO_Grey_Randomiser.cs" />
-    <Compile Include="Assets\PROTO_Player_Controller.cs" />
     <Compile Include="Assets\Prototyping\Cars\Scripts\TakeScreenshot.cs" />
     <Compile Include="Assets\Prototyping\Cars\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
@@ -138,10 +130,19 @@
     <Compile Include="Assets\Prototyping\UnityChan\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\Prototyping\UnityChan\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\Prototyping\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
-    <Compile Include="Assets\Resonai\Scripts\HideGameObject.cs" />
-    <Compile Include="Assets\Resonai\Scripts\ResonaiMeshDetails.cs" />
     <Compile Include="Assets\Scripts\Joe\Elevator.cs" />
+    <Compile Include="Assets\Scripts\Joe\Interaction\Interactible.cs" />
+    <Compile Include="Assets\Scripts\Joe\Interaction\Interactible_Load_Timeline.cs" />
+    <Compile Include="Assets\Scripts\Joe\Interaction\Interaction_Trigger.cs" />
+    <Compile Include="Assets\Scripts\Joe\Interaction\Movement_Interactible.cs" />
+    <Compile Include="Assets\Scripts\Joe\Player_interaction.cs" />
     <Compile Include="Assets\Scripts\Michael\WaypointTravel.cs" />
+    <Compile Include="Assets\Scripts\Player_Timeline_Controller.cs" />
+    <Compile Include="Assets\Scripts\PROTO_Grey_Randomiser.cs" />
+    <Compile Include="Assets\Scripts\PROTO_Player_Controller.cs" />
+    <Compile Include="Assets\Scripts\Swap_Positions.cs" />
+    <Compile Include="Assets\Scripts\Tool_Remove_Collider.cs" />
+    <Compile Include="Assets\Scripts\UI_Progress_Setter.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -244,8 +245,6 @@
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
-    <Compile Include="Assets\Swap_Positions.cs" />
-    <Compile Include="Assets\Tool_Remove_Collider.cs" />
     <Compile Include="Assets\Vive-Teleporter\Scripts\BorderRenderer.cs" />
     <Compile Include="Assets\Vive-Teleporter\Scripts\ParabolicPointer.cs" />
     <Compile Include="Assets\Vive-Teleporter\Scripts\TeleportTest.cs" />
@@ -255,6 +254,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Art\!placeholder.txt" />
+    <None Include="Assets\Art\CG_Trader\OfficeSet_2r\License.txt" />
     <None Include="Assets\Editor\!placeholder.txt" />
     <None Include="Assets\Prototyping\Heli1\Info.txt" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
@@ -346,10 +346,6 @@
     <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\Prototyping\UnityChan\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\Prototyping\UnityChan\license.txt" />
-    <None Include="Assets\Resonai\InternalResources\PreviewGizmo.shader" />
-    <None Include="Assets\Resonai\InternalResources\PreviewObject.shader" />
-    <None Include="Assets\Resonai\InternalResources\Transparent.shader" />
-    <None Include="Assets\Resonai\README.txt" />
     <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\Scripts\Joe\!placeholder.txt" />
     <None Include="Assets\Scripts\Michael\!placeholder.txt" />
@@ -371,6 +367,7 @@
     <None Include="Assets\Vive-Teleporter\Shader\TransparentNoOverlap.shader" />
     <None Include="Assets\Vive-Teleporter\Shader\ViveMovementBorder.shader" />
     <None Include="Assets\Vive-Teleporter\Shader\ViveMovementGrid.shader" />
+    <None Include="Assets\plants\dd\AlphaTest-Bumped.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

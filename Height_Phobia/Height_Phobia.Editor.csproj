@@ -136,12 +136,6 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\Resonai\Plugins\Google.Protobuf.dll</HintPath>
-    </Reference>
-    <Reference Include="ResonaiEditorEnvironment">
-      <HintPath>Assets\Resonai\ResonaiEditorEnvironment.dll</HintPath>
-    </Reference>
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>
@@ -155,6 +149,8 @@
   <ItemGroup>
     <Compile Include="Assets\Editor\Auto_Save_On_Run.cs" />
     <Compile Include="Assets\Editor\Move_To.cs" />
+    <Compile Include="Assets\Editor\Texture_Assigner.cs" />
+    <Compile Include="Assets\Editor\White_Out.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\AntialiasingEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\BloomAndFlaresEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\BloomEditor.cs" />
@@ -169,7 +165,6 @@
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\SunShaftsEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\TonemappingEditor.cs" />
     <Compile Include="Assets\Prototyping\NatureStarterKit2\Editor\ImageEffects\VignetteAndChromaticAberrationEditor.cs" />
-    <Compile Include="Assets\Resonai\Editor\ResonaiMeshDetailsInspectorProxy.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
@@ -179,6 +174,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Art\!placeholder.txt" />
+    <None Include="Assets\Art\CG_Trader\OfficeSet_2r\License.txt" />
     <None Include="Assets\Editor\!placeholder.txt" />
     <None Include="Assets\Prototyping\Heli1\Info.txt" />
     <None Include="Assets\Prototyping\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
@@ -270,10 +266,6 @@
     <None Include="Assets\Prototyping\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\Prototyping\UnityChan\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\Prototyping\UnityChan\license.txt" />
-    <None Include="Assets\Resonai\InternalResources\PreviewGizmo.shader" />
-    <None Include="Assets\Resonai\InternalResources\PreviewObject.shader" />
-    <None Include="Assets\Resonai\InternalResources\Transparent.shader" />
-    <None Include="Assets\Resonai\README.txt" />
     <None Include="Assets\Rune Assets\Simple\Urban Buildings Pack 1\runesimple.shader" />
     <None Include="Assets\Scripts\Joe\!placeholder.txt" />
     <None Include="Assets\Scripts\Michael\!placeholder.txt" />
@@ -295,6 +287,7 @@
     <None Include="Assets\Vive-Teleporter\Shader\TransparentNoOverlap.shader" />
     <None Include="Assets\Vive-Teleporter\Shader\ViveMovementBorder.shader" />
     <None Include="Assets\Vive-Teleporter\Shader\ViveMovementGrid.shader" />
+    <None Include="Assets\plants\dd\AlphaTest-Bumped.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

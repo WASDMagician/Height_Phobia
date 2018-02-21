@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 03c7da9b771a45b47833e899e1c14f2a
+timeCreated: 1517246886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Lamp
+    100006: Plane.001
+    100008: Plane.000
+    100010: Plane.002
+    100012: Plane.003
+    100014: Plane.004
+    100016: Plane.005
+    100018: Cube
+    100020: Cube.001
+    100022: Cube.002
+    100024: Cube.003
+    100026: Cube.004
+    100028: Cube.007
+    100030: Plane.006
+    100032: Ceiling
+    100034: Door
+    100036: Door.001
+    100038: Door.002
+    100040: Door.003
+    100042: Double_Door
+    100044: Elevator_Frame
+    100046: Floor
+    100048: Skiring_Floor
+    100050: Skirting_Ceiling
+    100052: Wall
+    100054: Walls
+    400000: Camera
+    400002: //RootNode
+    400004: Lamp
+    400006: Plane.001
+    400008: Plane.000
+    400010: Plane.002
+    400012: Plane.003
+    400014: Plane.004
+    400016: Plane.005
+    400018: Cube
+    400020: Cube.001
+    400022: Cube.002
+    400024: Cube.003
+    400026: Cube.004
+    400028: Cube.007
+    400030: Plane.006
+    400032: Ceiling
+    400034: Door
+    400036: Door.001
+    400038: Door.002
+    400040: Door.003
+    400042: Double_Door
+    400044: Elevator_Frame
+    400046: Floor
+    400048: Skiring_Floor
+    400050: Skirting_Ceiling
+    400052: Wall
+    400054: Walls
+    2000000: Camera
+    2300000: Plane.001
+    2300002: //RootNode
+    2300004: Plane.000
+    2300006: Plane.002
+    2300008: Plane.003
+    2300010: Plane.004
+    2300012: Plane.005
+    2300014: Cube
+    2300016: Cube.001
+    2300018: Cube.002
+    2300020: Cube.003
+    2300022: Cube.004
+    2300024: Cube.007
+    2300026: Plane.006
+    2300028: Ceiling
+    2300030: Door
+    2300032: Door.001
+    2300034: Door.002
+    2300036: Door.003
+    2300038: Double_Door
+    2300040: Elevator_Frame
+    2300042: Floor
+    2300044: Skiring_Floor
+    2300046: Skirting_Ceiling
+    2300048: Wall
+    2300050: Walls
+    3300000: Plane.001
+    3300002: //RootNode
+    3300004: Plane.000
+    3300006: Plane.002
+    3300008: Plane.003
+    3300010: Plane.004
+    3300012: Plane.005
+    3300014: Cube
+    3300016: Cube.001
+    3300018: Cube.002
+    3300020: Cube.003
+    3300022: Cube.004
+    3300024: Cube.007
+    3300026: Plane.006
+    3300028: Ceiling
+    3300030: Door
+    3300032: Door.001
+    3300034: Door.002
+    3300036: Door.003
+    3300038: Double_Door
+    3300040: Elevator_Frame
+    3300042: Floor
+    3300044: Skiring_Floor
+    3300046: Skirting_Ceiling
+    3300048: Wall
+    3300050: Walls
+    4300000: Plane.001
+    4300002: Plane.005
+    4300004: Plane.004
+    4300006: Plane.003
+    4300008: Plane.002
+    4300010: Plane.000
+    4300012: Cube.007
+    4300014: Plane.006
+    4300016: Cube.004
+    4300018: Cube.002
+    4300020: Cube.001
+    4300022: Cube.003
+    4300024: Cube
+    4300026: Elevator_Frame
+    4300028: Wall
+    4300030: Door.003
+    4300032: Door.002
+    4300034: Door
+    4300036: Door.001
+    4300038: Double_Door
+    4300040: Walls
+    4300042: Ceiling
+    4300044: Floor
+    4300046: Skirting_Ceiling
+    4300048: Skiring_Floor
+    10800000: Lamp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

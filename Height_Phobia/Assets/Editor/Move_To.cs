@@ -14,6 +14,8 @@ public class Move_To {
 		{
 			if (selected_objects [i] != active_object) 
 			{
+                Undo.RecordObject(active_object.transform, "Zero transform position");
+                Undo.RecordObject(selected_objects[i].transform, "Zero transform position");
 				active_object.transform.position = selected_objects [i].transform.position;
 			}
 		}

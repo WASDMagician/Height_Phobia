@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: b7715230f63b65049a8d7c505556dd6e
+timeCreated: 1517230601
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.003
+    100004: Object026
+    100006: Object026.001
+    100008: Object026.002
+    100010: Plane
+    100012: //RootNode
+    100014: Sofa1_Pillow1
+    100016: Sofa1_Pillow2
+    100018: Sofa1_Pillow3
+    100020: Sofa2_Base
+    100022: "\u0441hair"
+    100024: "\u0441hair.001"
+    100026: "\u0441hair.002"
+    100028: "\u0441hair.003"
+    100030: "\u0441hair.004"
+    100032: "\u0441hair.007"
+    100034: Cube.001
+    100036: Cube.002
+    100038: Cube.004
+    100040: Cube.007
+    100042: Plane.000
+    100044: Plane.001
+    100046: Plane.002
+    100048: Plane.003
+    100050: Plane.004
+    100052: Plane.005
+    100054: Plane.006
+    100056: Ceiling
+    100058: Door
+    100060: Door.001
+    100062: Door.002
+    100064: Door.003
+    100066: Double_Door
+    100068: Elevator_Frame
+    100070: Floor
+    100072: Skiring_Floor
+    100074: Skirting_Ceiling
+    100076: Wall
+    100078: Walls
+    400000: Cube
+    400002: Cube.003
+    400004: Object026
+    400006: Object026.001
+    400008: Object026.002
+    400010: Plane
+    400012: //RootNode
+    400014: Sofa1_Pillow1
+    400016: Sofa1_Pillow2
+    400018: Sofa1_Pillow3
+    400020: Sofa2_Base
+    400022: "\u0441hair"
+    400024: "\u0441hair.001"
+    400026: "\u0441hair.002"
+    400028: "\u0441hair.003"
+    400030: "\u0441hair.004"
+    400032: "\u0441hair.007"
+    400034: Cube.001
+    400036: Cube.002
+    400038: Cube.004
+    400040: Cube.007
+    400042: Plane.000
+    400044: Plane.001
+    400046: Plane.002
+    400048: Plane.003
+    400050: Plane.004
+    400052: Plane.005
+    400054: Plane.006
+    400056: Ceiling
+    400058: Door
+    400060: Door.001
+    400062: Door.002
+    400064: Door.003
+    400066: Double_Door
+    400068: Elevator_Frame
+    400070: Floor
+    400072: Skiring_Floor
+    400074: Skirting_Ceiling
+    400076: Wall
+    400078: Walls
+    2300000: Cube
+    2300002: Cube.003
+    2300004: Object026
+    2300006: Object026.001
+    2300008: Object026.002
+    2300010: Plane
+    2300012: Sofa1_Pillow1
+    2300014: Sofa1_Pillow2
+    2300016: Sofa1_Pillow3
+    2300018: Sofa2_Base
+    2300020: "\u0441hair"
+    2300022: "\u0441hair.001"
+    2300024: "\u0441hair.002"
+    2300026: "\u0441hair.003"
+    2300028: "\u0441hair.004"
+    2300030: "\u0441hair.007"
+    2300032: //RootNode
+    2300034: Cube.001
+    2300036: Cube.002
+    2300038: Cube.004
+    2300040: Cube.007
+    2300042: Plane.000
+    2300044: Plane.001
+    2300046: Plane.002
+    2300048: Plane.003
+    2300050: Plane.004
+    2300052: Plane.005
+    2300054: Plane.006
+    2300056: Ceiling
+    2300058: Door
+    2300060: Door.001
+    2300062: Door.002
+    2300064: Door.003
+    2300066: Double_Door
+    2300068: Elevator_Frame
+    2300070: Floor
+    2300072: Skiring_Floor
+    2300074: Skirting_Ceiling
+    2300076: Wall
+    2300078: Walls
+    3300000: Cube
+    3300002: Cube.003
+    3300004: Object026
+    3300006: Object026.001
+    3300008: Object026.002
+    3300010: Plane
+    3300012: Sofa1_Pillow1
+    3300014: Sofa1_Pillow2
+    3300016: Sofa1_Pillow3
+    3300018: Sofa2_Base
+    3300020: "\u0441hair"
+    3300022: "\u0441hair.001"
+    3300024: "\u0441hair.002"
+    3300026: "\u0441hair.003"
+    3300028: "\u0441hair.004"
+    3300030: "\u0441hair.007"
+    3300032: //RootNode
+    3300034: Cube.001
+    3300036: Cube.002
+    3300038: Cube.004
+    3300040: Cube.007
+    3300042: Plane.000
+    3300044: Plane.001
+    3300046: Plane.002
+    3300048: Plane.003
+    3300050: Plane.004
+    3300052: Plane.005
+    3300054: Plane.006
+    3300056: Ceiling
+    3300058: Door
+    3300060: Door.001
+    3300062: Door.002
+    3300064: Door.003
+    3300066: Double_Door
+    3300068: Elevator_Frame
+    3300070: Floor
+    3300072: Skiring_Floor
+    3300074: Skirting_Ceiling
+    3300076: Wall
+    3300078: Walls
+    4300000: Cube
+    4300002: Cube.003
+    4300004: Object026.002
+    4300006: Object026.001
+    4300008: Object026
+    4300010: "\u0441hair.007"
+    4300012: "\u0441hair.004"
+    4300014: "\u0441hair.003"
+    4300016: "\u0441hair.002"
+    4300018: "\u0441hair.001"
+    4300020: "\u0441hair"
+    4300022: Sofa1_Pillow1
+    4300024: Sofa1_Pillow2
+    4300026: Sofa1_Pillow3
+    4300028: Sofa2_Base
+    4300030: Plane
+    4300032: Plane.001
+    4300034: Cube.007
+    4300036: Plane.006
+    4300038: Cube.004
+    4300040: Cube.002
+    4300042: Cube.001
+    4300044: Plane.000
+    4300046: Plane.002
+    4300048: Plane.003
+    4300050: Plane.004
+    4300052: Plane.005
+    4300054: Elevator_Frame
+    4300056: Wall
+    4300058: Door.003
+    4300060: Door.002
+    4300062: Door
+    4300064: Door.001
+    4300066: Double_Door
+    4300068: Walls
+    4300070: Ceiling
+    4300072: Floor
+    4300074: Skirting_Ceiling
+    4300076: Skiring_Floor
+    7400000: "\u0441hair.007|\u0441hair|Take 001|BaseLayer"
+    7400002: "\u0441hair.007|\u0441hair|Take 001|BaseLayer.001"
+    7400004: "\u0441hair.007|\u0441hair|Take 001|BaseLayer.002"
+    7400006: "\u0441hair.004|\u0441hair|Take 001|BaseLayer"
+    7400008: "\u0441hair.004|\u0441hair|Take 001|BaseLayer.001"
+    7400010: "\u0441hair.004|\u0441hair|Take 001|BaseLayer.002"
+    7400012: "\u0441hair.003|\u0441hair|Take 001|BaseLayer"
+    7400014: "\u0441hair.003|\u0441hair|Take 001|BaseLayer.001"
+    7400016: "\u0441hair.003|\u0441hair|Take 001|BaseLayer.002"
+    7400018: "\u0441hair.002|\u0441hair|Take 001|BaseLayer"
+    7400020: "\u0441hair.002|\u0441hair|Take 001|BaseLayer.001"
+    7400022: "\u0441hair.002|\u0441hair|Take 001|BaseLayer.002"
+    7400024: "\u0441hair.001|\u0441hair|Take 001|BaseLayer"
+    7400026: "\u0441hair.001|\u0441hair|Take 001|BaseLayer.001"
+    7400028: "\u0441hair.001|\u0441hair|Take 001|BaseLayer.002"
+    7400030: "\u0441hair|\u0441hair|Take 001|BaseLayer"
+    7400032: "\u0441hair|\u0441hair|Take 001|BaseLayer.001"
+    7400034: "\u0441hair|\u0441hair|Take 001|BaseLayer.002"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
