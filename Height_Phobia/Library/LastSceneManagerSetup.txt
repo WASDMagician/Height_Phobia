@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Interior_Test.unity
+=======
+- path: Assets/Scenes/Conor_City_Test.unity
+>>>>>>> 71a519b0cea76493d2cf7974fb2988379e745751
   isLoaded: 1
   isActive: 1
